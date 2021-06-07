@@ -6,10 +6,12 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-notebook = "*"
 tensorflow = "==2.4.0"
 keras = "==2.4.3"
 keras-tuner = "==1.0.2"
+notebook = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
